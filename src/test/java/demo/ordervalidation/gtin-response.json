@@ -1,0 +1,12 @@
+{
+    "message": "Record Found",
+    "result": {
+        "gtin": "772927012144",
+        "itemDescription": "MYL-ESOMEPRAZOLE DR 40MG TB 100",
+        "size": 100,
+        "uom": "TAB",
+        "din": "02479427",
+        "manufacturerCode": "MYL",
+        "moleculeDescription": "ESOMEPRAZOLE MAG 40MG"
+    }
+}

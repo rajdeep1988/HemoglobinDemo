@@ -1,0 +1,40 @@
+{
+    "header": {
+        "recordType": "H",
+        "poNumber": "00123",
+        "poDate": "2020-11-11",
+        "expectedDeliveryDate": "2020-07-22",
+        "storeName": "The Store Name",
+        "storeNumber": "70608",
+        "contactName": "Contact Name",
+        "narcoticNumber": "123456789012345",
+        "orderType": "RX",
+        "vendorCode": "DCN"
+    },
+    "items": [
+        {
+            "recordType": "D",
+            "poQuantity": "00006",
+            "gtin": "045790000229",
+            "itemDescription": "FLUZONE MDV ONT FLU19 L:UJ254AD",
+            "size": "00100",
+            "unitMeasure": "TAB"
+        },
+        {
+            "recordType": "D",
+            "poQuantity": "00005",
+            "gtin": "045790000625",
+            "itemDescription": "FLULAVAL MDV ONT FLU19 L:25DH7",
+            "size": "00010",
+            "unitMeasure": "ML"
+        },
+        {
+            "recordType": "D",
+            "poQuantity": "00001",
+            "gtin": "045790000717",
+            "itemDescription": "FLUZONE PFS ONT FLU19 L:UJ304AC",
+            "size": "00002",
+            "unitMeasure": "DOS"
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "message": "Record Found",
+    "results": [
+        {
+            "gtin": "772927012144",
+            "itemDescription": "MYL-ESOMEPRAZOLE DR 40MG TB 100",
+            "size": 100,
+            "uom": "TAB",
+            "moleculeDescription": "ESOMEPRAZOLE MAG 40MG",
+            "productType": "2",
+            "din": "02479427",
+            "tradeName": "MYL-ESOMEPRAZOLE DR",
+            "manufacturerCode": "MYL",
+            "manufacturerEndDate": null,
+            "finelineCode": "680",
+            "categoryDescription": "160",
+            "dateCreated": null,
+            "daysToDC": 270,
+            "daysToStore": 180,
+            "expiryClass": "271",
+            "provinces": [
+                {
+                    "province": "YT",
+                    "dcItemType": "D",
+                    "dcItemFlag": "Y",
+                    "backOrderedFlag": "N"
+                }
+            ],
+            "warehouseDetails": [
+                {
+                    "dcCode": "30",
+                    "purchasingStatus": "7",
+                    "dcEndDate": null
+                },
+                {
+                    "dcCode": "50",
+                    "purchasingStatus": "2",
+                    "dcEndDate": null
+                }
+            ],
+            "createdDate": "2021-04-08T21:31:19.751",
+            "lastModifiedDate": "2021-04-08T22:11:36.852",
+            "createdBy": "SAP",
+            "updatedBy": "SAP"
+        },
+        {
+            "gtin": "362541894372",
+            "itemDescription": "PANCREASE MT 10 CP 100",
+            "size": 100,
+            "uom": "TAB",
+            "moleculeDescription": "LIP/AMY/PRO10.5/43.75/25",
+            "productType": "2",
+            "din": "00789437",
+            "tradeName": "PANCREASEEEE MT 10",
+            "manufacturerCode": "VVS",
+            "manufacturerEndDate": null,
+            "finelineCode": "693",
+            "categoryDescription": "173",
+            "dateCreated": null,
+            "daysToDC": 270,
+            "daysToStore": 180,
+            "expiryClass": "271",
+            "provinces": [
+                {
+                    "province": "YT",
+                    "dcItemType": "D",
+                    "dcItemFlag": "Y",
+                    "backOrderedFlag": "N"
+                }
+            ],
+            "warehouseDetails": [
+                {
+                    "dcCode": "10",
+                    "purchasingStatus": "7",
+                    "dcEndDate": null
+                },
+                {
+                    "dcCode": "50",
+                    "purchasingStatus": "7",
+                    "dcEndDate": null
+                }
+            ],
+            "createdDate": "2021-04-08T21:31:19.962",
+            "lastModifiedDate": "2021-04-08T22:11:37.099",
+            "createdBy": "SAP",
+            "updatedBy": "SAP"
+        }
+    ]
+}

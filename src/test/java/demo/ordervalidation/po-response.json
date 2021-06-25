@@ -1,0 +1,36 @@
+{
+    "header": {
+        "recordType": "H",
+        "vendorCode": "DCN",
+        "poNumber": 123,
+        "storeNumber": "70608",
+        "storeCompany": "SDM",
+        "fileName": null,
+        "timeZoneOffset": null,
+        "acknowledgementDateTime": "2021-06-24T14:44:29.436Z"
+    },
+    "items": [
+        {
+            "recordType": "D",
+            "gtin": "045790000229",
+            "adjustedQuantity": 0,
+            "memo": "Error Occurred while processing PO: Could not commit Mongo transaction for session [ClientSessionImpl@572c50f9 id = {\"id\": {\"$binary\": {\"base64\": \"SgqLKnqgQKukEkImGldOXQ==\", \"subType\": \"04\"}}}, causallyConsistent = true, txActive = false, txNumber = 1, error = d != java.lang.Boolean].; nested exception is com.mongodb.MongoClientException: This MongoDB deployment does not support retryable writes. Please add retryWrites=false to your connection string.",
+            "memoStatus": "Order Not Allowed"
+        },
+        {
+            "recordType": "D",
+            "gtin": "045790000625",
+            "adjustedQuantity": 0,
+            "memo": "Error Occurred while processing PO: Could not commit Mongo transaction for session [ClientSessionImpl@572c50f9 id = {\"id\": {\"$binary\": {\"base64\": \"SgqLKnqgQKukEkImGldOXQ==\", \"subType\": \"04\"}}}, causallyConsistent = true, txActive = false, txNumber = 1, error = d != java.lang.Boolean].; nested exception is com.mongodb.MongoClientException: This MongoDB deployment does not support retryable writes. Please add retryWrites=false to your connection string.",
+            "memoStatus": "Order Not Allowed"
+        },
+        {
+            "recordType": "D",
+            "gtin": "045790000717",
+            "adjustedQuantity": 0,
+            "memo": "Error Occurred while processing PO: Could not commit Mongo transaction for session [ClientSessionImpl@572c50f9 id = {\"id\": {\"$binary\": {\"base64\": \"SgqLKnqgQKukEkImGldOXQ==\", \"subType\": \"04\"}}}, causallyConsistent = true, txActive = false, txNumber = 1, error = d != java.lang.Boolean].; nested exception is com.mongodb.MongoClientException: This MongoDB deployment does not support retryable writes. Please add retryWrites=false to your connection string.",
+            "memoStatus": "Order Not Allowed"
+        }
+    ],
+    "poAlreadyProcessed": false
+}
